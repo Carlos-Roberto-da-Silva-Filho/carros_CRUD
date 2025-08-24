@@ -3,8 +3,8 @@
 import express, { Request, Response } from "express"
 import routes from "./Api/routes";
 import Logger from "./infra/Logger";
-import { basicAuthMiddleware } from "./Api/middleware/basicAuthMiddleware"; // Novo caminho
-import errorhandler from "./Api/middleware/errorhandler"; // Novo caminho
+import { basicAuthMiddleware } from "./Api/middleware/basicAuthMiddleware";
+import errorhandler from "./Api/middleware/errorhandler";
 
 
 const app = express();
