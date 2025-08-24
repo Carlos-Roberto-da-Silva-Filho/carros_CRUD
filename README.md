@@ -15,6 +15,8 @@ Este projeto foi criado com o objetivo de demonstrar a implementação de concei
 
 A aplicação segue a seguinte organização:
 
+```
+
 ├── src/
 │   ├── api/
 │   │   ├── controllers/
@@ -38,6 +40,8 @@ A aplicação segue a seguinte organização:
 ├── package.json                            # Dependências e scripts
 ├── tsconfig.json                           # Configurações do TypeScript
 └── README.md                               # Este arquivo
+
+```
 
 ## 🛠️ Como Instalar e Rodar
 
