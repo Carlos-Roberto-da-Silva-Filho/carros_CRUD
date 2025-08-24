@@ -1,0 +1,45 @@
+{
+  "carros": [
+    {
+      "id": 300,
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "ano": 2022,
+      "cor": "Vermelho",
+      "placa": "ABC-1234",
+      "observacoes": "Veículo em ótimo estado."
+    },
+    {
+      "id": 301,
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "ano": 2023,
+      "cor": "Amarelo"
+    },
+    {
+      "id": 302,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2024,
+      "cor": "Preto",
+      "placa": "XYZ-5678"
+    },
+    {
+      "id": 303,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2024,
+      "cor": "Preto",
+      "placa": "XYZ-5678"
+    },
+    {
+      "id": 304,
+      "marca": "Fiat",
+      "modelo": "Palio",
+      "ano": 2020,
+      "cor": "Verde",
+      "placa": "ABC-1234",
+      "observacoes": "Veículo com porta raspada"
+    }
+  ]
+}

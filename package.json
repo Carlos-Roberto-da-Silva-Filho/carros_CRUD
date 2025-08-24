@@ -1,0 +1,27 @@
+{
+  "name": "prog_carro_crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "dev": "ts-node-dev src/main.ts",
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/express-validator": "^3.0.2",
+    "@types/node": "^24.2.0",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.2"
+  }
+}
